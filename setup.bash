@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Oshimo Yasuaki
+#Written by O.Yasuaki
 
 exce 2> /tmp/setup.log
 
